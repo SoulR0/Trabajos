@@ -1,0 +1,9 @@
+list_v=[]
+mi_lista=["hols",[2,3,4,1],True]
+my_lista=list("FRASE")
+tu_lista=list(range(1,18))
+print(my_lista)
+print(tu_lista)
+print(mi_lista)
+print(list_v)
+print("hola")
